@@ -12,7 +12,7 @@ export const NavBar = () => {
       <span className="navbar-toggler-icon"><i className="bi bi-list"></i></span>
     </button>
     <div className="collapse navbar-collapse" id="navbar-toggler">
-      <a className="navbar-brand" href=""><img src={Favicon} alt="Icono del menu" width="50"/>
+      <a className="navbar-brand" href="index.html"><p className='brand-text'>San Juan </p>
       </a>
       <ul className="navbar-nav d-flex justify-content-center align-items-center ">
         <li className="nav-item">

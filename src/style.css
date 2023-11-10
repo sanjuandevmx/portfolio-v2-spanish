@@ -64,6 +64,12 @@ h2 {
     padding: 2rem;
     
 }
+.navbar-brand .brand-text{
+    font-family: Agbalumo;
+    font-size: 30px;
+    color: white;
+    
+}
 .navbar-section .navbar-toggler {
     color: white;
 }
