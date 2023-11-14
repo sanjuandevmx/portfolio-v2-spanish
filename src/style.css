@@ -32,6 +32,7 @@ h2 {
     font-size: 2rem;
     padding: 15px 0;
     font-family: 'Rubik Dirt', cursive;
+    text-align: center;
 }
 
 .description-seccion {
@@ -128,7 +129,7 @@ h2 {
 .about-me {
 
     height: 500px;
-    padding: 10px;
+    padding: 0px;
     background-color: #81C784;
     color: white;
 }
