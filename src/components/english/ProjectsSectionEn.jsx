@@ -1,10 +1,10 @@
 import React from 'react'
 import ImgProject1 from '../../assets/project_one_portfolio.jpg'
-export const ProjectsSection = () => {
+export const ProjectsSectionEn = () => {
   return (
     <>
   <section className="recent-projects" id='recent-projects-ancla'>
-    <h2 className=" title-section ">Projectos recientes</h2>
+    <h2 className=" title-section ">Recent projects</h2>
     <div className="container text-center contain-projects">
       <div className="row">
         <div className=" columne col-12 col-lg-4 ">
@@ -32,7 +32,5 @@ export const ProjectsSection = () => {
     </div>
   </section>
     </>
-
-    
   )
 }

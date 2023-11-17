@@ -97,6 +97,28 @@ h2 {
     background-color: white;
     color: green;
   }
+.navbar-section .text-end {
+    align-items: center;
+    justify-content: center;
+}
+.navbar-section .text-end .btn{
+    margin-right: 12px;
+    padding: 0px;
+    background-color: transparent;
+    border: none;
+
+
+    
+}
+  .navbar-section .text-end img {
+    height: 40px;
+    width: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 1px;
+  }
+
+
 
 /* Hero Section*/
 
